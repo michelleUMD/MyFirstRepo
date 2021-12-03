@@ -14,6 +14,9 @@
 
 <https://github.com/cmsc389T-fall21/>
 
+```python
+print("Python is a snake)
+```
 
 
 [CMSC389T GitHub Repo](https://github.com/cmsc389T-fall21)
