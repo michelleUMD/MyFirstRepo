@@ -16,4 +16,4 @@
 
 
 
-[CMSC389T GitHub Repo]<https://github.com/cmsc389T-fall21/>
+[CMSC389T GitHub Repo](https://github.com/cmsc389T-fall21)
